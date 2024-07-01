@@ -1,7 +1,7 @@
 # Bachelor-Thesis
 
 ## Abstract 
-	Emotion recognition has garnered significant attention across various disciplines, with 
+Emotion recognition has garnered significant attention across various disciplines, with 
 Electroencephalography (EEG) emerging as a promising modality for decoding human 
 emotions. This bachelor thesis investigates the feasibility and efficacy of utilizing EEG 
 signals from the DREAMER dataset for emotion recognition. The study begins with a 
