@@ -19,7 +19,7 @@ spectral density calculation, and baseline-stimulus ratio calculation. It also e
 feature extraction techniques in the frequency and time domains and discusses various 
 metrics used to evaluate the accuracy of emotion recognition models. <br /> <br />
   The results and discussion section presents insights gathered from experiments conducted 
-on the DREAMER dataset, demonstrating the efficacy of the proposed methodologies in 
+on the **DREAMER dataset**, demonstrating the efficacy of the proposed methodologies in 
 emotion recognition tasks. The thesis concludes by suggesting future research directions 
 and highlighting the potential applications of EEG-based emotion recognition systems in 
 diverse domains. <br /> <br />
